@@ -1,11 +1,18 @@
+---
+title: 'HackMD Sync with GitHub'
+description: 'Synchronize testing of GitHub with HackMD.'
+tags: Hello
+---
 # HelloHackMD
 
 ## Table of Content
-+ [Introduction](#introduction)
-+ [Features](#features)
+[TOC]
 
 ## Introduction
 + This is a test of HackMD and GitHub.
 
 ## Features
 + Demonstration with HackMD and GitHub.
+
+## Hello
++ Maintain table of content with markdown extension of vscode.
